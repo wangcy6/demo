@@ -1,3 +1,7 @@
+###cmake执行
+cmake ./
+
+
 ####cmake中一些预定义变量
 
 * PROJECT\_SOURCE\_DIR 工程的根目录
